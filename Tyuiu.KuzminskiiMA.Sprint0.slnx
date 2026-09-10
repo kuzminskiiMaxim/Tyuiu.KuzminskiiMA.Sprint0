@@ -1,8 +1,13 @@
 <Solution>
   <Folder Name="/Task0/">
-    <Project Path="Tyuiu.KuzminskiiMA,Sprint0.Task0.V0/Tyuiu.KuzminskiiMA,Sprint0.Task0.V0.csproj" />
+    <Project Path="Tyuiu.KuzminskiiMA,Sprint0.Task0.V0/Tyuiu.KuzminskiiMA,Sprint0.Task0.V0.csproj" Id="330c9735-b3f7-4ef9-8c24-371a7a203c3d" />
   </Folder>
   <Folder Name="/Task1/">
-    <Project Path="Tyuiu.KuzminskiiMA.Sprint0.Task1.V0/Tyuiu.KuzminskiiMA.Sprint0.Task1.V0.csproj" />
+    <Project Path="Tyuiu.KuzminskiiMA.Sprint0.Task1.V0/Tyuiu.KuzminskiiMA.Sprint0.Task1.V0.csproj" Id="c7bf27d5-2f5d-42a3-af6b-fcfbd345ce51" />
+  </Folder>
+  <Folder Name="/Task2/">
+    <Project Path="Tyuiu.KuzminskiiMA.Sprint0.Task2.V0.Lib/Tyuiu.KuzminskiiMA.Sprint0.Task2.V0.Lib.csproj" Id="eead8a24-502e-4ce0-b7c0-e382775d8d82" />
+    <Project Path="Tyuiu.KuzminskiiMA.Sprint0.Task2.V0.Test/Tyuiu.KuzminskiiMA.Sprint0.Task2.V0.Test.csproj" Id="2a591a6b-d397-497b-8762-782098c19ecc" />
+    <Project Path="Tyuiu.KuzminskiiMA.Sprint0.Task2.V0/Tyuiu.KuzminskiiMA.Sprint0.Task2.V0.csproj" Id="7ba9c532-fa69-4001-970e-9e409c315cab" />
   </Folder>
 </Solution>
