@@ -13,7 +13,7 @@ namespace Tyuiu.KuzminskiiMA.Sprint0.Task1.V0
             Console.WriteLine("Hello, World");
             string name = "Максим";
             int age = 20;
-            Console.WriteLine("Здраствуsssйте Меня зовут " + name + " мне " + age + " лет");
+            Console.WriteLine("Здраствуйте Меня зовут " + name + " мне " + age + " лет");
             Console.ReadKey();
         }
     }
